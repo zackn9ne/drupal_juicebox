@@ -2,4 +2,5 @@
 
 1. cd into: drupal7/sites/all/libraries/
 2. clone
-3. profit
+3. clear cache
+4. profit
